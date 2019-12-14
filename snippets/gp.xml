@@ -27,8 +27,8 @@
 
  <!-- Qcom audio  -->
 <!--   <remove-project name="LineageOS/android_hardware_qcom_audio"/> -->
-  <project path="hardware/qcom/audio-caf/msm8916" name="Galaxy-MSM8916/android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk" revision="lineage-16.0-caf-8916" />
-
+<!--   <project path="hardware/qcom/audio-caf/msm8916" name="Galaxy-MSM8916/android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk" revision="lineage-16.0-caf-8916" />
+ -->
  <!-- Dependencies -->
   <project path="external/sony/boringssl-compat" name="LineageOS/android_external_sony_boringssl-compat" remote="github" revision="lineage-15.1"/>
   <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings"/>
