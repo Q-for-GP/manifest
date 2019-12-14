@@ -17,7 +17,7 @@
   <project path="device/samsung/qcom-common" name="LineageOS/android_device_samsung_qcom-common" groups="device" remote="github" revision="lineage-17.0"/>
 
  <!-- Samsung Hardware Repo -->
-  <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" groups="device" remote="Q-for-GP"/>
+  <project path="hardware/samsung" name="Q-for-GP/android_hardware_samsung" groups="device" remote="Q-for-GP"/>
 
  <!-- Common Samsung MSM8916 Kernel -->
   <project path="kernel/samsung/msm8916" name="Q-for-GP/android_kernel_samsung_msm8916" remote="Q-for-GP"/>
